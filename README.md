@@ -1,5 +1,3 @@
-Sure, here's a README file for the backend repository of the Online Fitness and Nutrition Platform, based on the architecture I suggested earlier:
-
 ```markdown
 # Online Fitness and Nutrition Platform - Backend
 
